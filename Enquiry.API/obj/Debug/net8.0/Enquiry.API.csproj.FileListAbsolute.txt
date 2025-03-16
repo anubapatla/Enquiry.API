@@ -166,3 +166,4 @@ C:\git\dotnet\Enquiry.API\Enquiry.API\obj\Debug\net8.0\refint\Enquiry.API.dll
 C:\git\dotnet\Enquiry.API\Enquiry.API\obj\Debug\net8.0\Enquiry.API.pdb
 C:\git\dotnet\Enquiry.API\Enquiry.API\obj\Debug\net8.0\Enquiry.API.genruntimeconfig.cache
 C:\git\dotnet\Enquiry.API\Enquiry.API\obj\Debug\net8.0\ref\Enquiry.API.dll
+C:\git\dotnet\Enquiry.API\Enquiry.API\obj\Debug\net8.0\Enquiry.API.sourcelink.json

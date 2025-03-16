@@ -50,8 +50,7 @@
               "RelativeToolTip": "Models\\EnquiryModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-16T01:47:12.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-16T01:47:12.086Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Models\\EnquiryType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T02:35:38.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T02:35:38.102Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "Models\\EnquiryStatus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T02:28:37.001Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T02:28:37.001Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T02:07:40.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T02:07:40.819Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "Models\\EnquiryDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAswAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-15T02:08:12.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T02:08:12.64Z"
             },
             {
               "$type": "Document",
@@ -128,8 +123,7 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-15T01:56:15.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-15T01:56:15.709Z"
             }
           ]
         }
